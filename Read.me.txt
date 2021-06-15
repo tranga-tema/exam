@@ -1,0 +1,5 @@
+loginMenu top bottom left 로 구성되어있고
+
+loginaction,joinaction은 로그인 db저장 구현하고있고
+
+dto dao에서 가져와서 사용한다
